@@ -1,3 +1,4 @@
 # Instagram Search Layout UI
 
-<img width="371" alt="Screenshot 2024-07-26 at 1 23 31 PM" src="https://github.com/user-attachments/assets/22dcba70-42f2-4632-983c-9b2b971a0f0f">
+
+<img width="352" alt="Screenshot 2024-07-26 at 1 29 07 PM" src="https://github.com/user-attachments/assets/9d0bcad6-b4ac-43a5-b731-b8f59421200c">
